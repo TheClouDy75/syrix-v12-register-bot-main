@@ -1,6 +1,6 @@
-# Selam arkadaşlar sizlere v12 kayıt botu altyapısı paylaştım umarım beğenirsiz!
-# Syrix.js adlı dosyadaki emojileri girmeyi unutmayınız ve syrix.json adlı dosyadaki idleride girmeyi unutmayınız!
-# Botta herhangi bir hata aldığınızda discord sunucumza gelip yardım/destek alabilirsiniz iyi günler!
-[Serendia Squad Discord](discord.gg/serendia)
+# Hello friends, I shared the v12 registration bot infrastructure with you, I hope you don't like it!
+# Do not forget to enter the emojis in the file named syrix.js and do not forget to enter the ids in the file named syrix.json!
+# In case of any bugs in the bot, you can get help/support by coming to our discord server. Have a nice day!
+[Serendia Team Clash](discord.gg/serendia)
  
- Not: Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır.
+ Note: It is strictly forbidden to be sold for project purposes or to be distributed by others with any other advertisement.
